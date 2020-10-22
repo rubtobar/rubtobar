@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="web" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="mail | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="web" width="22px" src="web.jpg" />][website]
+[<img align="left" alt="mail | Twitter" width="22px" src="gmail.png" />][email]
+[<img align="left" alt="linkedin | LinkedIn" width="22px" src="linkedin.png" />][linkedin]
 
 <br />
 
@@ -94,9 +94,6 @@
 
 [isdefe]: https://www.isdefe.es
 [uib]: https://www.uib.es
-
-
-[nolink]: blank
 
 [tensorflow]:https://www.tensorflow.org/
 [keras]:https://keras.io/
