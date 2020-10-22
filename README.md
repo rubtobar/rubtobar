@@ -3,7 +3,7 @@
 ## I'm a computer engineer
 
 - 🎓 I finished my engineer degree in the [University of Balearic Islands][uib]
-- 🚀 I’m currently working at [ISDEFE][isdefe] as a cibersecurity engineer
+- 🚀 I’m currently working at [ISDEFE][isdefe] as a ciber security engineer
 - 🌱 I want to grow as a computer engineer and learn about the newest tecnologies and frameworks
 - 🥅 2020 Goals: Work hard in my personal projects ant get them done
 
@@ -14,6 +14,16 @@
 [<img align="left" alt="linkedin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+## The fields that I like the most
+
+- 🧠 Machine Learning
+- 🤖 Artificial Inteligence
+- 👨‍💻 Ciber security
+- 💻 Web development
+- 📱 Mobile app development
+- ☁ Cloud
+
 
 ### Languages and Tools:
 
@@ -73,7 +83,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 <br />
 
-[<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />][bash]
+[<img align="left" alt="Bash" width="26px" src="bash.png" />][bash]
+
+[<img align="left" alt="Metasploit" width="26px" src="metasploit.png" />][metasploit]
 
 
 [website]: https://www.linkedin.com/in/rub%C3%A9n-tobar-nicolau-84761117a/
@@ -111,5 +123,6 @@
 [git]:https://git-scm.com/
 [github]:https://github.com/
 [bash]:https://github.com/topics/bash
+[metasploit]: https://www.metasploit.com
 
 
