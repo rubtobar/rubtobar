@@ -3,8 +3,8 @@
 ## I'm a computer engineer
 
 - 🎓 I finished my engineer degree in the [University of Balearic Islands][uib]
-- 🚀 I’m currently working at [ISDEFE][isdefe] as a ciber security engineer
-- 🌱 I want to grow as a computer engineer and learn about the newest tecnologies and frameworks
+- 🚀 I’m currently working at [ISDEFE][isdefe]
+- 🌱 I want to grow as a computer engineer and learn about the newest technologies and frameworks
 - 🥅 2020 Goals: Work hard in my personal projects ant get them done
 
 ### Connect with me:
