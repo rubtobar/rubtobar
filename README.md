@@ -2,16 +2,15 @@
 
 ## I'm a computer engineer
 
-- 🎓 I finished my engineer degree in the [University of Balearic Islands][uib]
-- 🚀 I’m currently working at [ISDEFE][isdefe]
+- 🎓 I finished my engineer degree in the [University of Balearic Islands](https://www.uib.es/)
+- 🚀 I’m currently working at [ISDEFE](https://www.isdefe.es/)
 - 🌱 I want to grow as a computer engineer and learn about the newest technologies and frameworks
 - 🥅 2020 Goals: Work hard in my personal projects ant get them done
 
 ### Connect with me:
 
-[<img align="left" alt="web" width="22px" src="web.jpg" />][website]
-[<img align="left" alt="mail | Twitter" width="22px" src="gmail.png" />][email]
-[<img align="left" alt="linkedin | LinkedIn" width="22px" src="linkedin.png" />][linkedin]
+- rubentobarnicolau@gmail.com
+- [linkedin.com/in/rubtobar/](https://www.linkedin.com/in/rubtobar/)
 
 <br />
 
@@ -40,3 +39,4 @@
 - Dockers
 - .NET
 - Bash
+
